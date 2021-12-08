@@ -1,1 +1,2 @@
 you can loop through lists and sequences
+The bash loop constructs include the for loop, while loop, and until loop.
