@@ -10,3 +10,4 @@ for i in $(seq 1 $value);
 do echo ${cards[RANDOM%${#cards[@]}]};
 
 done
+#Crystal added this line
